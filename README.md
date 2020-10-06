@@ -1,9 +1,9 @@
 # amazon-walmart-scraper
 Scrapy spiders for e-commerce websites
 
-#Installation 
+# Installation
 git clone https://github.com/ouardiYakoubAbdallah/amazon-walmart-scraper 
 
-#Usage 
+# Usage
 scrapy crawl <spider_name>
 
